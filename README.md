@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan David Balanta Rentería</h1>
-<h3 align="center">I am a young man with a passion for web development, with skills in various areas of computer science, but with an emphasis on programming. Technician and systems technologist, I have more than 7 formal and informal years in the information technology sector. Study lover, very self-taught, I love teamwork. I like to take the role of leader whether or not there is someone who takes it. I am a person who can bring many positive things to your team.</h3>
+<h3 align="center">I am a young man with a passion for web development, with skills in various areas of computer science, but with an emphasis on programming. Technician and systems technologist, I have more than 7 formal and informal years in the information technology sector. 
+  
+<br><br>Study lover, very self-taught, I love teamwork. I like to take the role of leader whether or not there is someone who takes it. I am a person who can bring many positive things to your team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdbalantar&label=Profile%20views&color=0e75b6&style=flat" alt="jdbalantar" /> </p>
 
