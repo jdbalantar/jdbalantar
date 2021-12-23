@@ -1,23 +1,27 @@
 <h1 align="center">Hi 👋, I'm Juan David Balanta Rentería</h1>
-<h3 align="center">I am a young man with a passion for web development, with skills in various areas of computer science, but with an emphasis on programming. Technician and systems technologist, I have more than 7 formal and informal years in the information technology sector. 
-  
-<br><br>Study lover, very self-taught, I love teamwork. I like to take the role of leader whether or not there is someone who takes it. I am a person who can bring many positive things to your team.</h3>
+<h3 align="center">I am a young man with a passion for web development, with skills in various areas of computer science, but with an emphasis on programming. Technician and systems technologist, I have more than 7 formal and informal years in the information technology sector. Study lover, very self-taught, I love teamwork. I like to take the role of leader whether or not there is someone who takes it. I am a person who can bring many positive things to your team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdbalantar&label=Profile%20views&color=0e75b6&style=flat" alt="jdbalantar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdbalantar" alt="jdbalantar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jdbalantar" target="blank"><img src="https://img.shields.io/twitter/follow/jdbalantar?logo=twitter&style=for-the-badge" alt="jdbalantar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/juandavidbalant" target="blank"><img src="https://img.shields.io/twitter/follow/juandavidbalant?logo=twitter&style=for-the-badge" alt="juandavidbalant" /></a> </p>
 
 - 🌱 I’m currently learning **MySQL, Django, Python, Flask, Javascript, Node.JS**
 
 - 📫 How to reach me **jdbalantar@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jdbalantar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jdbalantar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/jdbalantar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jdbalantar" height="30" width="40" /></a>
+<a href="https://twitter.com/juandavidbalant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juandavidbalant" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jdbalantar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jdbalantar" height="30" width="40" /></a>
 <a href="https://fb.com/jdbalanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jdbalanta" height="30" width="40" /></a>
+<a href="https://instagram.com/jdbalanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jdbalanta" height="30" width="40" /></a>
+<a href="https://medium.com/@jdbalantar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jdbalantar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
