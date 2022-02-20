@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/juandavidbalant" target="blank"><img src="https://img.shields.io/twitter/follow/juandavidbalant?logo=twitter&style=for-the-badge" alt="juandavidbalant" /></a> </p>
 
-- 🌱 I’m currently learning **MySQL, Django, Python, Flask, Javascript, Node.JS**
+- 🌱 I’m currently learning **MySQL, Python, Javascript, Node.JS**
 
 - 📫 How to reach me **jdbalantar@gmail.com**
 
